@@ -1,0 +1,4 @@
+FlaskAdd commentMore actions
+Flask-SQLAlchemy
+pip install --upgrade pip
+gunicorn
